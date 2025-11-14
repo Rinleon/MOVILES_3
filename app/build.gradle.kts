@@ -5,11 +5,19 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace = "com.example.learnnavigation"
     compileSdk = 36
 
     defaultConfig {
         applicationId = "com.example.learnnavigation"
+=======
+    namespace = "com.example.icono"
+    compileSdk = 36
+
+    defaultConfig {
+        applicationId = "com.example.icono"
+>>>>>>> 456b28de236ddb66f18103d37dc1697dfa2fb825
         minSdk = 29
         targetSdk = 36
         versionCode = 1
@@ -56,8 +64,11 @@ dependencies {
     androidTestImplementation(libs.androidx.compose.ui.test.junit4)
     debugImplementation(libs.androidx.compose.ui.tooling)
     debugImplementation(libs.androidx.compose.ui.test.manifest)
+<<<<<<< HEAD
 
     val nav_version = "2.9.5"
 
     implementation("androidx.navigation:navigation-compose:$nav_version")
+=======
+>>>>>>> 456b28de236ddb66f18103d37dc1697dfa2fb825
 }

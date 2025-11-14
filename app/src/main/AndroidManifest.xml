@@ -6,16 +6,28 @@
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
+<<<<<<< HEAD
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.LearnNavigation">
+=======
+        android:icon="@mipmap/icono_leon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ICONO">
+>>>>>>> 456b28de236ddb66f18103d37dc1697dfa2fb825
         <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"
+<<<<<<< HEAD
             android:theme="@style/Theme.LearnNavigation">
+=======
+            android:theme="@style/Theme.ICONO">
+>>>>>>> 456b28de236ddb66f18103d37dc1697dfa2fb825
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

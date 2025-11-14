@@ -19,5 +19,11 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "learnNavigation"
 include(":app")
+=======
+rootProject.name = "ICONO"
+include(":app")
+ 
+>>>>>>> 456b28de236ddb66f18103d37dc1697dfa2fb825

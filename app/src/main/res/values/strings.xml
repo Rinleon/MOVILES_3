@@ -1,3 +1,8 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">learnNavigation</string>
+=======
+    <string name="app_name">ICONO</string>
+    <string name="saludo">hola</string>
+>>>>>>> 456b28de236ddb66f18103d37dc1697dfa2fb825
 </resources>

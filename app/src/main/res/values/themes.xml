@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+<<<<<<< HEAD
     <style name="Theme.LearnNavigation" parent="android:Theme.Material.Light.NoActionBar" />
+=======
+    <style name="Theme.ICONO" parent="android:Theme.Material.Light.NoActionBar" />
+>>>>>>> 456b28de236ddb66f18103d37dc1697dfa2fb825
 </resources>
